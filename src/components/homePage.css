@@ -1,0 +1,17 @@
+.MuiButton-root{
+    height: 1.5cm;
+    width: 1cm;
+}
+.container{
+    padding: 0.5%;
+    height: 24.6cm;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4PN-UaNWzXKvnY5PO9w9_lmDOIsc0uN8ig&usqp=CAU");
+}
+h1{
+    color: burlywood;
+    font-weight: 800;
+}
+#authorisedUser{
+    grid-auto-rows: 15%;
+    grid-template-rows: 5px 100px;
+}

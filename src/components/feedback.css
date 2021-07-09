@@ -1,0 +1,49 @@
+.feedbackContainer{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 25.1%;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4PN-UaNWzXKvnY5PO9w9_lmDOIsc0uN8ig&usqp=CAU");
+  }
+  .form {
+    display: flex;
+    flex-direction: column;
+    padding: 1%;
+    align-items: center;
+    border: 2px solid black;
+    width: 28%;
+    margin-top: 6%;
+    background-color: ivory;
+  }
+  label{
+    font-weight: 800;
+    height: 0.7cm;
+    width: 8cm;
+  }
+  input{
+    height: 0.7cm;
+    width: 8cm;
+    font-weight: 550;
+    margin: 1%;
+  }
+  select{
+    height: 0.7cm;
+    width: 8cm;
+    margin: 1%;
+  }
+  option{
+    font-weight: 600;
+  }
+  button{
+    font-weight: 600;
+    width: 2cm;
+    margin: 1%;
+  }
+  .gotoButton{
+      width: 5cm;
+      margin-top: 1.5%;
+  }
+  #toggle{
+      display:flex;
+  } 
